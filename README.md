@@ -1,10 +1,12 @@
-# DSMG02L
-Guías de laboratorio de DSMG02L (Desarollo de Software para Móviles - Grupo de laboratorio 02).
+# Práctica de labatorio 1.
 
-Estudiante: Leonardo Elenilson López Cañas.
+Discusión de resultados.
 
-Carnet: LC171998.
+1. Ejercicio 1: [Ejercicio 1](https://replit.com/@Leonardo44/Ejercicio1?v=1)
+2. Ejercicio 2: [Ejercicio 2](https://replit.com/@Leonardo44/Ejercicio2?v=1)
+3. Ejercicio 3: [Ejercicio 3](https://replit.com/@Leonardo44/Ejercicio3?v=1)
+4. Ejercicio 4: [Ejercicio 4](https://replit.com/@Leonardo44/Ejercicio4?v=1)
 
-Ciclo: 01-2022.
+La configuración de un emulador y creación de una empty activity en android se encuentran en el documento Configuracion.pdf en esta rama.
 
-Este respositorio esta constituido de n ramas, cada rama es una práctica de laboratorio.
+La aplicación con las operaciones suma, resta, multiplación y división se encuentra dentro de la carpeta App en esta rama.
