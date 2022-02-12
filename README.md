@@ -1,8 +1,6 @@
-# DSMG02L
-Guías de laboratorio de DSMG02L (Desarollo de Software para Móviles - Grupo de laboratorio 02).
+# Práctica de labatorio 1.
 
-Estudiante: Leonardo Elenilson López Cañas. \
-Carnet: LC171998. \
-Ciclo: 01-2022. 
+Discusión de resultados.
 
-Este respositorio esta constituido de n ramas, cada rama es una práctica de laboratorio.
+1. Ejercicio 1: Se encuentra en la carpeta "Contador" en esta rama.
+2. Ejercicio 2: Se encuentra en la carpeta "CalculadoraSalario" en esta rama.
