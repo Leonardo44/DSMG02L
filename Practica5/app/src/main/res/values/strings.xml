@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SQLiteApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home_fragment_edt1">Ingrese código</string>
+    <string name="home_fragment_edt2">Ingrese descripción</string>
+    <string name="home_fragment_edt3">Ingrese precio</string>
+    <string name="home_fragment_button1">Alta</string>
+    <string name="home_fragment_button2">Consulta por código</string>
+    <string name="home_fragment_button3">Consulta por descripción</string>
+    <string name="home_fragment_button4">Baja por código</string>
+    <string name="home_fragment_button5">Modificación</string>
+
+    <string name="home_fragment_button_open_one">Abrir ejercicio 1</string>
+    <string name="home_fragment_button_open_two">Abrir ejercicio 2</string>
+    <string name="home_fragment_button_open_three">Abrir ejercicio 3</string>
+</resources>

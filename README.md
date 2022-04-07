@@ -1,8 +1,7 @@
-# DSMG02L
-Guías de laboratorio de DSMG02L (Desarollo de Software para Móviles - Grupo de laboratorio 02).
+# Práctica de labatorio 5.
 
-Estudiante: Leonardo Elenilson López Cañas. \
-Carnet: LC171998. \
-Ciclo: 01-2022. 
+La app es una sola, cuenta con menú de 3 botones.
 
-Este respositorio esta constituido de n ramas, cada rama es una práctica de laboratorio.
+1. El primer botón de la app abre el ejemplo uno de la práctica.
+2. El segundo botón de la app abre el segundo ejemplo de la práctica. En este caso se tuvieron problemas para realizar este ejemplo, pues android studio marcaba muchos métodos como deprecados. Por lo tanto el punto dos de la discusión no se realizo.
+3. El tercer botón de la app abre el ejericio 1 solicitado en la disusión. CRUD de persona.
